@@ -26,5 +26,5 @@ This repository contains minimal packages to control the FW-01 robot using ROS.
     $ sudo apt-get install build-essential git cmake libasio-dev
     $ git clone https://github.com/RLmodel/FW-01.git
     ```
-
+https://www.youtube.com/watch?v=qx_waTaB-XQ&t=16s
     ![329151036-22759ae1-0ed8-4c63-b69f-be1679eedb66](https://github.com/RLmodel/FW-01/assets/32663016/7a1c8fe1-fe14-4eaf-83ad-2d5c05bd686c)
